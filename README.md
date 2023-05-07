@@ -7,4 +7,4 @@
 • von Neumann analysis was done to establish stability requirements of the solution, explicit FD scheme was found to be conditionally stable and convergent; compared the results with analytical solution to validate the approach.
 
 
-Project Report: [Transverse Vibration Analysis of Euler-Bernoulli Beam](Transverse Vibration Analysis of Euler-Bernoulli Beam.pdf)
+Project Report: [Transverse Vibration Analysis of Euler-Bernoulli Beam](./Transverse Vibration Analysis of Euler-Bernoulli Beam.pdf)
